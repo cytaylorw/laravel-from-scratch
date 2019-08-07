@@ -3,5 +3,3 @@
 
 ## 成品
 https://demo.cytaylorw.idv.tw:60001
-
-NAS上目前沒有
